@@ -1,0 +1,1 @@
+En este readme vamos a hacer unas lineas basicas de codigo.
